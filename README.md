@@ -1,2 +1,2 @@
 # hmexpenses
- um aplicativo de despesas pessoas feito junto ao curso do cod3r
+ um aplicativo de despesas pessoais feito junto ao curso do cod3r
